@@ -205,13 +205,15 @@ h2,h1{
   width: 500px;      
   height: auto;      
   display: inline-block;
-  overflow: hidden;  
+  overflow: hidden;
+	margin: 0 auto;
 }
 
 .image-container-1 img {
   display: block;
   width: 100%;       
   height: auto;
+	margin: 0 auto;
 }
 
 .overlay-text {
@@ -225,6 +227,7 @@ h2,h1{
   padding: 10px;
   width: 90%;         
   box-sizing: border-box;
+	margin: 0 auto;
 }
 
 .headline-copy-baskerville-img{
@@ -264,7 +267,7 @@ h2,h1{
 
 
 img{
-	align-content: center;
+	margin: 0 auto;
 }
 
 
@@ -273,4 +276,11 @@ img{
   color: white;
   font-weight: 600;
   font-size: 25px;
+}
+
+.code-box {
+	background-color: #714F26;
+	color: white;
+	padding: 15px 15px 15px 15px;
+	line-height: 42px;
 }
