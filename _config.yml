@@ -9,5 +9,7 @@ linkedIn:
 collections: 
 design:
 output: true
+permalink: /:collection/:path/
+
 
 
