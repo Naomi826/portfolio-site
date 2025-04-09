@@ -1,5 +1,5 @@
 ---
-title:"Brand Identity"
+title:"Website Redesign"
 tools: [Photoshop, Indesign]
 description: "A typographic poster series exploring contrast, scale and rythm."
 layout:
@@ -25,4 +25,5 @@ This project helped develop a stronger sense of visual hierarchy and gave me the
  
  
  
+
 
